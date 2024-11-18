@@ -126,7 +126,7 @@ code {
   background-color: var(--secondary-clr-text);
 }
 
-.default-button {
+.btn-default {
   font-size: 0.9rem;
   background-color: var(--btn-default);
 }
