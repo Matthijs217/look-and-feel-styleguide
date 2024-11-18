@@ -131,26 +131,29 @@ code {
   background-color: var(--btn-default);
 }
 
+
+.btn-rouwtaak-1,
+.btn-rouwtaak-2,
+.btn-rouwtaak-3,
+.btn-rouwtaak-4 {
+    font-size: 0.9rem;
+    color: var(--secondary-clr-text);
+}
+
 .btn-rouwtaak-1 {
-  font-size: 0.9rem;
   background-color: var(--btn-rouwtaak-1);
-  color: var(--secondary-clr-text);
 }
 
 .btn-rouwtaak-2 {
-  font-size: 0.9rem;
   background-color: var(--btn-rouwtaak-2);
-  color: var(--secondary-clr-text);
 }
+
 .btn-rouwtaak-3 {
-  font-size: 0.9rem;
   background-color: var(--btn-rouwtaak-3);
-  color: var(--secondary-clr-text);
 }
+
 .btn-rouwtaak-4 {
-  font-size: 0.9rem;
   background-color: var(--btn-rouwtaak-4);
-  color: var(--secondary-clr-text);
 }
 
 .inactive-steps {
