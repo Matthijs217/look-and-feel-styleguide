@@ -81,8 +81,8 @@ body {
 
 html {
   font-family: var(--ff-figtree), sans-serif;
-  background-color: var(--primary-clr-background);
-  color: var(--secondary-clr-text);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
   margin: 0;
   padding: 0;
 }
