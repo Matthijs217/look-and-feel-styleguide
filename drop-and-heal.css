@@ -69,16 +69,12 @@ body {
   --fw-bold-normal: 700;
   --fw-bold-heading: 800;
 
-<<<<<<< HEAD
-  /* Inactive/Completed Colors, progressbar */
-=======
   /* Font Sizes */
   --font-small:1em;
   --font-medium:2em;
   --font-large:2.625em;
   
   /* Inactive/Completed Colors */
->>>>>>> 7688138dc559754c1240a697fee1d8d516565bda
   --inactive-color: #4d4d4d;
   --completed-color: #f5f5f5;
 
